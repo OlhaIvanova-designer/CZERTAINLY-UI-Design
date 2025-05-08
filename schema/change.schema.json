@@ -1,0 +1,53 @@
+{
+  "type": "object",
+  "required": [
+    "id",
+    "date",
+    "author",
+    "title",
+    "description",
+    "public_url",
+    "pr_number",
+    "file_url"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "A slug-style identifier (lowercase letters, numbers, hyphens)"
+    },
+    "date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}(?::\\d{2}(?:\\.\\d+)?)?$",
+      "description": "ISO-8601 date/time (YYYY-MM-DDThh:mm or hh:mm:ss)"
+    },
+    "author": {
+      "type": "string",
+      "pattern": "^@[A-Za-z0-9_-]+$",
+      "description": "GitHub handle of the author, prefixed with “@”"
+    },
+    "title": {
+      "type": "string",
+      "description": "Short, imperative title of the change"
+    },
+    "description": {
+      "type": "string",
+      "description": "Detailed description of the change"
+    },
+    "public_url": {
+      "type": "string",
+      "pattern": "^https?://.+",
+      "description": "Link to the Figma file or frame"
+    },
+    "pr_number": {
+      "type": "integer",
+      "description": "Number of the merged PR related to this change"
+    },
+    "file_url": {
+      "type": "string",
+      "pattern": "^https?://.+",
+      "description": "Link to the design file to download"
+    }
+  },
+  "additionalProperties": false
+}
