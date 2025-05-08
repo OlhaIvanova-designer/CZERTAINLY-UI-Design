@@ -35,6 +35,6 @@ We keep the complete history of changes using the pull requests for tracking pur
 
 For more information on how to create for and pull requests, please refer to GitHub articles [Fork a repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) and [Creating a pull request from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 
-To see the list of other contributions, use this [link](https://github.com/CZERTAINLY/CZERTAINLY-UI-Design/pulls?q=is%3Amerged+is%3Apr+label%3Abug+)
+To see the list of other contributions, use this [link](https://github.com/CZERTAINLY/CZERTAINLY-UI-Design/pulls?q=is%3Amerged+is%3Apr+label%3Adesign+).
 
 You can also create your own comments to public design files and create issues with the description for the maintainers.
