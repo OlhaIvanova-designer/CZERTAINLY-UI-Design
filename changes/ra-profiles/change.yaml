@@ -1,0 +1,8 @@
+id: ra-profiles-design
+date: 2025-06-13T16:10
+author: "@OlhaIvanova-designer"
+title: "Redesign of a RA Profiles page"
+description: >
+  Redesigned the RA Profiles page. Redesigned Create RA Profile page, Delete RA Profile popup, and Initiate Compliance Check popup using components and styles from your Tailwind library. Added breadcrumbs to pages for easier navigation. You can copy this into your file.
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=230-4351&t=3mpksGOsJfdpmCLZ-1"
+pr_number: 6
