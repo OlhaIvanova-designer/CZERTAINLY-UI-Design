@@ -1,8 +1,8 @@
-id: ra-profile-details-design
-date: 2025-06-13T16:15
+id: certification-authority-details-design
+date: 2025-06-13T16:20
 author: "@OlhaIvanova-designer"
-title: "Redesign of a RA Profile Details page"
+title: "Redesign of a Certification Authority Details page"
 description: >
-  Redesigned the RA Profile Details page. Redesigned the expanded table row feature. Redesigned Delete RA Profile popup, Associate Compliance Profile popup, Associate Approval Profile popup, and Initiate Compliance Check popup using components and styles from your Tailwind library. Added breadcrumbs to pages for easier navigation. You can copy this into your file.
-public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=230-8668&t=3mpksGOsJfdpmCLZ-1"
+  Redesigned the Certification Authority Details page. Redesign Certification Authority Details while service is invalid. Redesigned Edit Authority page. Redesigned the expanded table row feature. Redesigned Delete Certification Authority popup, using components and styles from your Tailwind library. You can copy this into your file.
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=237-5059&t=3mpksGOsJfdpmCLZ-1"
 pr_number: 6
