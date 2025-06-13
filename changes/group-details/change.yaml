@@ -1,0 +1,8 @@
+id: group-details-design
+date: 2025-06-13T15:59
+author: "@OlhaIvanova-designer"
+title: "Redesign of a Group Details page"
+description: >
+  Redesigned the Group Details page. Redesigned Edit Group page, Delete Group popup, and Edit row feature using components and styles from your Tailwind library. You can copy this into your file.
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=230-4351&t=3mpksGOsJfdpmCLZ-1"
+pr_number: 6
