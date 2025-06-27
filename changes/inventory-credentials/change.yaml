@@ -1,0 +1,8 @@
+id: token-profile-details-design
+date: 2025-06-27T16:14
+author: "@OlhaIvanova-designer"
+title: "Redesign of an Inventory - Credentials"
+description: >
+  Redesigned the Inventory - Credentials page. Redesign the Create Credential page. Redesigned Delete a Connector popup, using components and styles from your Tailwind library. You can copy this into your file.
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=336-3568&t=bDIN4gP6XS1Y3B1Z-1"
+pr_number: 6
