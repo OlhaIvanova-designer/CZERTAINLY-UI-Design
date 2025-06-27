@@ -1,0 +1,8 @@
+id: settings-events
+date: 2025-06-27T17:19
+author: "@OlhaIvanova-designer"
+title: "Redesign of Settings - Events"
+description: >
+  Redesigned the Platform Settings - Utils. Redesigned the Configure Event Triggers page. Used components and styles from your Tailwind library. You can copy this into your file.
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=357-87198&t=bDIN4gP6XS1Y3B1Z-1"
+pr_number: 6
