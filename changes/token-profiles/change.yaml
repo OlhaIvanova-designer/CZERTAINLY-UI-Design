@@ -1,8 +1,8 @@
-id: complience-profile-details-design
-date: 2025-06-27T15:43
+id: token-profile-details-design
+date: 2025-06-27T15:49
 author: "@OlhaIvanova-designer"
-title: "Redesign of Token Profiles"
+title: "Redesign of a Token Profile Details"
 description: >
-  Redesigned the List of Token Profiles page. Redesign the Create Token Profile page. Redesigned Delete Token Profile popup, and Update Key Usage popup using components and styles from your Tailwind library. You can copy this into your file.
-public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=265-724&t=emLVxc5zKbzoOBQ2-1"
+  Redesigned the Token Profile Details page. Redesign the Edit Token Profile page. Redesigned Delete Token Profile popup, and Update Key Usage popup using components and styles from your Tailwind library. You can copy this into your file.
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=323-27656&t=emLVxc5zKbzoOBQ2-1"
 pr_number: 6
