@@ -1,0 +1,8 @@
+id: token-details-design
+date: 2025-06-27T16:4903
+author: "@OlhaIvanova-designer"
+title: "Redesign of a Token Details"
+description: >
+  Redesigned the Token Details page. Redesign the Expanded Table Row. Redesigned the Edit Token page. Redesigned Delete Token popup, and Random Data Generation popup using components and styles from your Tailwind library. You can copy this into your file.
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=323-35699&t=bDIN4gP6XS1Y3B1Z-1"
+pr_number: 6
