@@ -1,0 +1,8 @@
+id: acme-profile-detailes-edits
+date: 2025-08-05T12:18
+author: "@OlhaIvanova-designer"
+title: "ACME profile Detiles edits"
+description: >
+  Added the Default Certificate associations widget. In create/edit forms of protocol profiles added new optional inputs for Owner, Groups, and Custom attributes. 
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=347-49160&t=Au6arYK3EQVDXDBv-1"
+pr_number: 6
