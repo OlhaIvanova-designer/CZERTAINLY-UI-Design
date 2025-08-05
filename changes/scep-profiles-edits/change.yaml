@@ -1,0 +1,8 @@
+id: scep-profiles-edits
+date: 2025-08-05T12:23
+author: "@OlhaIvanova-designer"
+title: "SCEP profiles edits"
+description: >
+  In create/edit forms of protocol profiles added new optional inputs for Owner, Groups, and Custom attributes
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=352-33633&t=Au6arYK3EQVDXDBv-1"
+pr_number: 6
