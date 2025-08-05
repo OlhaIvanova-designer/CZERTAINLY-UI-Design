@@ -1,0 +1,9 @@
+id: compliance-profile-details-edits 
+date: 2025-08-05T11:44
+author: "@OlhaIvanova-designer"
+title: "Compliance Profile Detailed page edits"
+description: >
+ Update Associated RA Profiles widget - changed title to Associations, also Removed the Status column, added Resource and Object columns. 
+Rules & Groups widget was split into two views - Selected and Available - to improve clarity and usability.A tabbed layout was implemented for both views, grouped by resource type (e.g., Certificates, Keys) to avoid mixing resources and reduce cognitive load. In Rule & Group Detail Display I chose to use a popup/modal instead of a collapsible row - this decision was made due to limited table space and the need to display detailed information in a clearer, more focused way.
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=237-5064&t=Au6arYK3EQVDXDBv-1"
+pr_number: 6
