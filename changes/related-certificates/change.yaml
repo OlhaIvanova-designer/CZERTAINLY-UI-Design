@@ -1,9 +1,8 @@
-id: related-certificates
-date: 2025-08-05T11:10
+id: compliance-result-certificate-validation
+date: 2025-08-05T11:57
 author: "@OlhaIvanova-designer"
-title: "Related Certificates Tab"
+title: "Compliance Status widget on Certificate Validation page"
 description: >
-  Removed Source Certificate UUID from the Other Properties widget. Added a new Tab for Related Sertificates to display related and source certificates in separate tables. The Source Certificates table includes a delete action to remove the source certificate association.
-It also includes an add action, which opens a pop-up with a certificate selection table, implemented in the same way as the “Push to Location” functionality from the Location detail page.
-public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=686-46141&t=Au6arYK3EQVDXDBv-1"
+  1. Implemented the Compliance Status widget (Overall status, timestamp, and table of failed rules) on the Validation tab of Certificate.
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=133-1568&t=Au6arYK3EQVDXDBv-1"
 pr_number: 6
