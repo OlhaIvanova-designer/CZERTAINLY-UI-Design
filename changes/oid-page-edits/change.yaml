@@ -1,0 +1,8 @@
+id: oid-page-edits
+date: 2025-08-05T12:29
+author: "@OlhaIvanova-designer"
+title: "OID pages edits"
+description: >
+  Removed code from the Listing page. Removed code property from OID details widget and created Additional properties widget. Removed OID code from inputs from the create/edit page, displayed as additional properties after selecting RDN Attribute category. Made the category disabled on the Edit page. 
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=435-3552&t=Au6arYK3EQVDXDBv-1"
+pr_number: 6
